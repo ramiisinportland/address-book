@@ -1,0 +1,12 @@
+#show-contact {
+  display: none;
+}
+body{
+  background-color: #000;
+  color: #fff;
+}
+
+button {
+  width: 100%;
+  border-radius: 5px;
+}
